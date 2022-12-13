@@ -1,4 +1,4 @@
-# Proyecto-Universidad-1
+# Proyecto Universidad 1 - Cajero ATM
 Este es un proyecto de una atm de un banco, si a alguien le sirve para pasar su clase de programción puede usarlo.
 
 ### SOLO SE DEBE COMPILAR EL ARCHIVO MenuPrincipal.cpp -> Y EJECUTAR MenuPrincipal.exe
